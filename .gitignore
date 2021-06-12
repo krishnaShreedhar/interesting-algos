@@ -5,3 +5,5 @@
 .idea/interesting-algos.iml
 .idea/inspectionProfiles/profiles_settings.xml
 /data/
+*.pyc
+.DS_Store
